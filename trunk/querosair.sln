@@ -1,25 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "querosair", "..\..\WebSites\querosair\", "{4812A50D-6949-43C9-9416-C5F6FEDA9B8E}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "querosair", ".", "{018125E3-DC09-4395-90F4-11876B54A059}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFramework = "3.5"
 		Debug.AspNetCompiler.VirtualPath = "/querosair"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\querosair\"
+		Debug.AspNetCompiler.PhysicalPath = "..\querosair\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\querosair\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/querosair"
-		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\querosair\"
+		Release.AspNetCompiler.PhysicalPath = "..\querosair\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\querosair\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "3999"
-		DefaultWebSiteLanguage = "Visual C#"
+		VWDPort = "4140"
 	EndProjectSection
 EndProject
 Global
@@ -27,8 +26,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4812A50D-6949-43C9-9416-C5F6FEDA9B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4812A50D-6949-43C9-9416-C5F6FEDA9B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018125E3-DC09-4395-90F4-11876B54A059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018125E3-DC09-4395-90F4-11876B54A059}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
